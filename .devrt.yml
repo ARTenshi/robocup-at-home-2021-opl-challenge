@@ -1,0 +1,5 @@
+simulations:
+  - name: challenge
+    type: challenge
+    to: robocup-at-home-2021-opl
+    robot: tiago
